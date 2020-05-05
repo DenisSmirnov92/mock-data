@@ -231,90 +231,50 @@
       }
     }
   ],
-  "survey": [
+  "surveys": [
     {
-      "survey_id": "554d9d49-5d5b-430f-868a-cdffcac59ed4",
+      "id": "554d9d49-5d5b-430f-868a-cdffcac59ed4",
       "status": "Draft",
       "name": "Survey 1",
       "description": "Survey 1 description",
       "version_id": 1,
       "date_created": "2020-02-01 07:37:16+00",
       "date_modified": "2020-02-01 07:37:16+00",
-      "created_by": {
-        "id": 1,
-        "name": "Leanne Graham",
-        "username": "Bret",
-        "email": "Sincere@april.biz"
-      },
-      "modified_by": {
-        "id": 2,
-        "name": "Ervin Howell",
-        "username": "Antonette",
-        "email": "Shanna@melissa.tv"
-      }
+      "created_by": 2,
+      "modified_by": 3
     },
     {
-      "survey_id": "fac58ddc-41fd-40fb-9741-1724ff278447",
+      "id": "fac58ddc-41fd-40fb-9741-1724ff278447",
       "status": "Published",
       "name": "Survey 2",
       "description": "Survey 2 description",
       "version_id": 1,
       "date_created": "2020-01-01 07:37:16+00",
       "date_modified": "2020-01-01 07:37:16+00",
-      "created_by": {
-        "id": 1,
-        "name": "Leanne Graham",
-        "username": "Bret",
-        "email": "Sincere@april.biz"
-      },
-      "modified_by": {
-        "id": 2,
-        "name": "Ervin Howell",
-        "username": "Antonette",
-        "email": "Shanna@melissa.tv"
-      }
+      "created_by": 2,
+      "modified_by": 2
     },
     {
-      "survey_id": "7a5898e1-3b5b-4c08-8c63-98ada9191c10",
+      "id": "7a5898e1-3b5b-4c08-8c63-98ada9191c10",
       "status": "Archived",
       "name": "Survey 3",
       "description": "Survey 3 description",
       "version_id": 1,
       "date_created": "2020-03-01 07:37:16+00",
       "date_modified": "2020-03-01 07:37:16+00",
-      "created_by": {
-        "id": 1,
-        "name": "Leanne Graham",
-        "username": "Bret",
-        "email": "Sincere@april.biz"
-      },
-      "modified_by": {
-        "id": 2,
-        "name": "Ervin Howell",
-        "username": "Antonette",
-        "email": "Shanna@melissa.tv"
-      }
+      "created_by": 1,
+      "modified_by": 1
     },
     {
-      "survey_id": "7a5898e1-3b5b-4c08-8c63-98ada9191c10",
+      "id": "7a5898e1-3b5b-4c08-8c63-98ada9191c10",
       "status": "Published",
       "name": "Survey 3",
       "description": "Survey 3 description",
       "version_id": 1,
       "date_created": "2020-04-01 07:37:16+00",
       "date_modified": "2020-04-01 07:37:16+00",
-      "created_by": {
-        "id": 1,
-        "name": "Leanne Graham",
-        "username": "Bret",
-        "email": "Sincere@april.biz"
-      },
-      "modified_by": {
-        "id": 2,
-        "name": "Ervin Howell",
-        "username": "Antonette",
-        "email": "Shanna@melissa.tv"
-      }
+      "created_by": 2,
+      "modified_by": 3
     }
 
   ]
