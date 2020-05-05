@@ -240,7 +240,7 @@
       "version_id": 1,
       "date_created": "2020-02-01 07:37:16+00",
       "date_modified": "2020-02-01 07:37:16+00",
-      "created_by": 2,
+      "created_by": 3,
       "modified_by": 3
     },
     {
@@ -251,7 +251,7 @@
       "version_id": 1,
       "date_created": "2020-01-01 07:37:16+00",
       "date_modified": "2020-01-01 07:37:16+00",
-      "created_by": 2,
+      "created_by": 1,
       "modified_by": 2
     },
     {
@@ -263,19 +263,18 @@
       "date_created": "2020-03-01 07:37:16+00",
       "date_modified": "2020-03-01 07:37:16+00",
       "created_by": 1,
-      "modified_by": 1
+      "modified_by": 2
     },
     {
-      "id": "7a5898e1-3b5b-4c08-8c63-98ada9191c10",
+      "id": "899cbc14-3f2a-442c-8eb0-d270f53a02b8",
       "status": "Published",
       "name": "Survey 3",
       "description": "Survey 3 description",
-      "version_id": 1,
+      "version_id": 2,
       "date_created": "2020-04-01 07:37:16+00",
       "date_modified": "2020-04-01 07:37:16+00",
       "created_by": 2,
-      "modified_by": 3
+      "modified_by": 2
     }
-
   ]
 }
